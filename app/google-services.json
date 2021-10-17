@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336962541582",
+    "project_id": "chat-app-3313f",
+    "storage_bucket": "chat-app-3313f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336962541582:android:61006008f8039162fdc45f",
+        "android_client_info": {
+          "package_name": "com.krupnov.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336962541582-kk4t7lrc330cgd4d105stap8i8jk1q9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krupnov.chatapp",
+            "certificate_hash": "619369800a8ec3f29aeef79da2a20a3fc1adf08c"
+          }
+        },
+        {
+          "client_id": "336962541582-56sgm92e5v0ak1bonn616nokj6lbilr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeU3hM-wBQHanqEITU2jAlriflqnqQWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336962541582-56sgm92e5v0ak1bonn616nokj6lbilr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
